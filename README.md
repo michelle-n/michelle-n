@@ -2,10 +2,10 @@
 ## 👋 Hello! Thanks for stopping by my Github profile. 
 
 Check out my website/portfolio! 
-  - <a href="michellevynguyen.com">michellevynguyen.com</a>
+  - <a href="https://michellevynguyen.com">michellevynguyen.com</a>
 
 Let's connect on LinkedIn! 
-  - <a href="linkedin.com/in/michellevynguyen/">linkedin.com/in/michellevynguyen/</a>
+  - <a href="https://linkedin.com/in/michellevynguyen/">linkedin.com/in/michellevynguyen/</a>
 
 
 <!--
