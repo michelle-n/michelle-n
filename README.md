@@ -1,4 +1,12 @@
-### Hi there 👋
+
+## 👋 Hello! Thanks for stopping by my Github profile. 
+
+Check out my website/portfolio! 
+  - <a href="michellevynguyen.com">michellevynguyen.com</a>
+
+Let's connect on LinkedIn! 
+  - <a href="linkedin.com/in/michellevynguyen/">linkedin.com/in/michellevynguyen/</a>
+
 
 <!--
 **michelle-n/michelle-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
