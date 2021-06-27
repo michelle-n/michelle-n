@@ -1,5 +1,5 @@
 
-## 👋 Hello! Thanks for stopping by my Github profile. 
+## 👋 Hello! Thanks for stopping by my GitHub profile. 
 
 Check out my website/portfolio! 
   - <a href="https://michellevynguyen.com">michellevynguyen.com</a>
