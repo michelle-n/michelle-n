@@ -1,9 +1,6 @@
 
 ## 👋 Hello! Thanks for stopping by my GitHub profile. 
 
-Check out my website/portfolio! 
-  - <a href="https://michellevynguyen.com">michellevynguyen.com</a>
-
 Let's connect on LinkedIn! 
   - <a href="https://linkedin.com/in/michellevynguyen/">linkedin.com/in/michellevynguyen/</a>
 
